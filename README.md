@@ -1,6 +1,6 @@
 # Engine code repository
 
-A mini container engine written in Golang.
+This repository contains standalone programs that spins like a server, container, database etc.
 
 ## Authors Information
 
